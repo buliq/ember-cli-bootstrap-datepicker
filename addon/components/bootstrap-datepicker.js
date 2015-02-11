@@ -35,7 +35,8 @@ export default Ember.Component.extend(DatepickerSupport, {
     'tabindex',
     'title',
     'translate',
-    'type'
+    'type',
+    'value'
   ],
 
   type: 'text'
